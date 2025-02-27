@@ -1,5 +1,0 @@
-path: "/files"
-method: "POST"
-extra:
-  python:
-    source: "endpoints/files.py"

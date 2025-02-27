@@ -48,4 +48,3 @@ settings:
         value: last_user_message
 endpoints:
   - endpoints/openai_compatible.yaml
-  - endpoints/files.yaml
